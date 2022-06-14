@@ -21,6 +21,7 @@ $ jupyter notebook
 5. Go back to the root directory and you will find a html file
 6. Open the HTML file to see the dashboard
 7. You will get something like this
+
  ![image](https://user-images.githubusercontent.com/62743772/173507216-c8a07f54-5177-4b57-9cd4-4ffa854251d5.png)
 
 
