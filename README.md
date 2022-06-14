@@ -1,5 +1,7 @@
-# SportsAnalysis
- This activity basically conducts and Exploratory Data Analysis on the given datasets. Some of the important insights have been gathered from the EDA. A dashboard kind of thing is getting generated in the form of a HTML file.
+# Sports Analysis
+> Conducted Exploratory Data Analysis on the given datasets to figure out which is the most successful IPL team.
+> 
+> Live demo 
 # Technologies Used
 -  Jupyter notebook
 -  Pandas
