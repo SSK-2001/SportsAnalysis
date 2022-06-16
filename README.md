@@ -25,6 +25,6 @@ $ jupyter notebook
  ![image](https://user-images.githubusercontent.com/62743772/173507216-c8a07f54-5177-4b57-9cd4-4ffa854251d5.png)
  
  
- Give this repo a star if you like it :)
+ Give this repo a star if you like it :))
 
 
